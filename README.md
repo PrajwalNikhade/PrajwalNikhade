@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Nikhade</h1>
-<h3 align="center">Computer Science Engineering Student | AI/ML | Data Analytics | Data Science | Web Development</h3>
+<h3 align="center">| AI/ML | Data Analytics | Data Science | Web Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrajwalNikhade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
